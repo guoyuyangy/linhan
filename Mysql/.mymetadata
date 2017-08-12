@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Mysql"
+  id="myeclipse.1502331523782"
+  context-root="/Mysql"
+  j2ee-spec="5.0"
+  archive="Mysql.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
